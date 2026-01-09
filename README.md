@@ -9,7 +9,7 @@ I am an avid learner and spend my time crafting new project that I am passionate
 I have started all of these project because of one thing, there was something to lean
 
 ## CoRent
-<div">
+<div>
 Ett verktyg som delar ut hyra rättvist i ett kollektiv
 Uppbyggd av SvelteKit, ExpressJS och Postgresql, både frontend och backend använder TypeScript
 Detta projekt lärde mig hur det går att hålla backend organiserat
