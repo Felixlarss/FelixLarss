@@ -12,7 +12,7 @@ I have started all of these project because of one thing, there was something to
 
 | Bild | Text |
 |------|------|
-| ![nextTrain]([bild.png](https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/nextTrain.jpg?size=50)) |  Ett verktyg som delar ut hyra rättvist i ett kollektiv
+| ![nextTrain](https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/nextTrain.jpg) |  Ett verktyg som delar ut hyra rättvist i ett kollektiv
 Uppbyggd av SvelteKit, ExpressJS och Postgresql, både frontend och backend använder TypeScript
 Detta projekt lärde mig hur det går att hålla backend organiserat |
 ## NextTram
