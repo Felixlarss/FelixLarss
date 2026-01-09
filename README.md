@@ -8,21 +8,16 @@ I am an avid learner and spend my time crafting new project that I am passionate
 # My recent work
 I have started all of these project because of one thing, there was something to lean
 
-## CoRent
-
-|------|------|
-|  Ett verktyg som delar ut hyra rättvist i ett kollektiv
-Uppbyggd av SvelteKit, ExpressJS och Postgresql, både frontend och backend använder TypeScript
-Detta projekt lärde mig hur det går att hålla backend organiserat | ![nextTrain](https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/nextTrain.jpg) |
 ## NextTram
-<pre>
-Ett statisk sida som visar avgångstiden för nästa spårvagn från min närmsta hållplats
-Består enbart av ett frontend som hämtar data från en av Västtrafiks APIer
-Detta projekt lärde mig att använda andras APIer
+<pre wrap style='text-align: justify'">
+<img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/nextTrain.jpg" width="400" style="float:right; margin-left:15px;"> 
+A tool for helping me catch the tram on time! It uses Västtrafiks API to get departure data from my nearest tram stop. It is always active on my old phone that I have put in my kichen.
+It uses SvelteKit with tailwind for the css, it is just a frontend sice it just fetches Västtrafiks API. It is just one static page but it gets the job done, you know, YAGNI!
 </pre>
-## ARK
-<pre>
-Enbart ett frontend till en spelförening som koncepthemsida
-Består av React och är en av de första hemsidorna jag skapade
-Detta projekt lärde mig React samt hur man tar kundens behov och applicerar det på produkten
+
+
+## CoRent
+<pre wrap style='text-align: justify'">
+<img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/coRent.png" width="400" style="float:right; margin-left:15px;"> 
+This is a tool for calculating the fair amount of rent one should pay in a kollective, you can add, remove and edit tennnts. In the picture I have cencored the names. It also uses SvelteKit and tailwind but this one has a backend and database. For the backend it uses ExpressJS and for the database it uses Postgresql.
 </pre>
