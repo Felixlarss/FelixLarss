@@ -9,9 +9,9 @@ I am an avid learner and spend my time crafting new project that I am passionate
 I have started all of these project because of one thing, there was something to lean
 
 ## NextTram
+<img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/nextTrain.jpg" width="400" align="right" style="margin-left:15px;"> 
 A tool for helping me catch the tram on time! It uses Västtrafiks API to get departure data from my nearest tram stop. It is always active on my old phone that I have put in my kichen.
 It uses SvelteKit with tailwind for the css, it is just a frontend sice it just fetches Västtrafiks API. It is just one static page but it gets the job done, you know, YAGNI!
-<img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/nextTrain.jpg" width="400" align="right" style="margin-left:15px;"> 
 
 
 ## CoRent
