@@ -14,7 +14,7 @@ A tool for helping me catch the tram on time! It uses Västtrafiks API to get de
 It uses SvelteKit with tailwind for the css, it is just a frontend sice it just fetches Västtrafiks API. It is just one static page but it gets the job done, you know, YAGNI!
 <br/>
 
-[Link: Link to Repo](https://github.com/Felixlarss/nextTram)
+[Link to Repo](https://github.com/Felixlarss/nextTram)
 <br/>
 <br/>
 <br/>
@@ -22,3 +22,6 @@ It uses SvelteKit with tailwind for the css, it is just a frontend sice it just 
 ## CoRent
 <img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/coRent.png" width="400" align="right" style="margin-left:15px;"> 
 This is a tool for calculating the fair amount of rent one should pay in a kollective, you can add, remove and edit tennnts. In the picture I have cencored the names. It also uses SvelteKit and tailwind but this one has a backend and database. For the backend it uses ExpressJS and for the database it uses Postgresql.
+<br/>
+
+[link to Repo](https://github.com/Felixlarss/CoRent)
