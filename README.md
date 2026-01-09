@@ -1,16 +1,29 @@
-## Hi there 👋
+ # FELIX
 
-<!--
-**Felixlarss/FelixLarss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an avid learner and spend my time crafting new project that I am passionate about. My favorite part about creating is that it is limitless, and when I don't know how to do something, I learn it by searching or asking. There is power in the words *"I don't know"*.
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,postgresql,git,svelte,react,expressjs,nodejs,linux,neovim,)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+# My recent work
+I have started all of these project because of one thing, there was something to lean
+
+## CoRent
+<pre>
+Ett verktyg som delar ut hyra rättvist i ett kollektiv
+Uppbyggd av SvelteKit, ExpressJS och Postgresql, både frontend och backend använder TypeScript
+Detta projekt lärde mig hur det går att hålla backend organiserat
+</pre>
+![nextTrain](./nexttrain.png)
+## NextTram
+<pre>
+Ett statisk sida som visar avgångstiden för nästa spårvagn från min närmsta hållplats
+Består enbart av ett frontend som hämtar data från en av Västtrafiks APIer
+Detta projekt lärde mig att använda andras APIer
+</pre>
+## ARK
+<pre>
+Enbart ett frontend till en spelförening som koncepthemsida
+Består av React och är en av de första hemsidorna jag skapade
+Detta projekt lärde mig React samt hur man tar kundens behov och applicerar det på produkten
+</pre>
