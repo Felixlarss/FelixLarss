@@ -10,11 +10,10 @@ I have started all of these project because of one thing, there was something to
 
 ## CoRent
 
-| Bild | Text |
 |------|------|
-| ![nextTrain](https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/nextTrain.jpg) |  Ett verktyg som delar ut hyra rättvist i ett kollektiv
+|  Ett verktyg som delar ut hyra rättvist i ett kollektiv
 Uppbyggd av SvelteKit, ExpressJS och Postgresql, både frontend och backend använder TypeScript
-Detta projekt lärde mig hur det går att hålla backend organiserat |
+Detta projekt lärde mig hur det går att hålla backend organiserat | ![nextTrain](https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/nextTrain.jpg) |
 ## NextTram
 <pre>
 Ett statisk sida som visar avgångstiden för nästa spårvagn från min närmsta hållplats
