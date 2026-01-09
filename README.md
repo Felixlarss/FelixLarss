@@ -16,6 +16,7 @@ It uses SvelteKit with tailwind for the css, it is just a frontend sice it just 
 <br/>
 <br/>
 <br/>
+
 ## CoRent
 <img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/coRent.png" width="400" align="right" style="margin-left:15px;"> 
 This is a tool for calculating the fair amount of rent one should pay in a kollective, you can add, remove and edit tennnts. In the picture I have cencored the names. It also uses SvelteKit and tailwind but this one has a backend and database. For the backend it uses ExpressJS and for the database it uses Postgresql.
