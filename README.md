@@ -8,7 +8,7 @@ I am an avid learner and spend my time crafting new projects that I am passionat
 
 # My recent work
 
-I have started all of these projects because of one thing: there was something to learn.
+I started all of these projects because of one thing: There was something to learn.
 
 ## NextTram
 
