@@ -30,7 +30,7 @@ A tool for helping me catch the tram on time! It uses Västtrafiks API to get de
 
 <img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/CoRent.png" width="400" align="right" style="margin-left:15px;"> 
 
-This is a tool for calculating the fair amount of rent one should pay in a collective. you can add, remove, and edit tenants. In the picture I have censored the names. It also uses SvelteKit and Tailwind, but this one has a backend and database. For the backend it uses ExpressJS, and for the database it uses PostgreSQL. It is still a work in progress, my next task is adding Oauth and making the frontend look nice, right now it is just a placeholder page.
+This is a tool for calculating the fair amount of rent one should pay in a collective. you can add, remove, and edit tenants. It also uses SvelteKit and Tailwind, but this one has a backend and database. For the backend it uses ExpressJS, and for the database it uses PostgreSQL. It is still a work in progress, my next task is adding Oauth and making the frontend look nice, right now it is just a placeholder page.
 
 <br/>
 
@@ -46,7 +46,7 @@ This is a tool for calculating the fair amount of rent one should pay in a colle
 
 <img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/ARK.png" width="400" align="right" style="margin-left:15px;"> 
 
-ARK is a concept website for a board game association, it is therefore mostly for show. I used React for the project, and it doesn't have a backend, instead it stores dummy data in JSON files in the frontend. I learned how to take feedback in a constructive way with this project.
+ARK is a concept website for a board game association, it is therefore mostly for show. I used React and tailwind for the project and it doesn't have a backend, instead it stores dummy data in JSON files in the frontend. There are a lot of improvements to be made to the design, but at least I learned how to take feedback in a constructive way with this project.
 
 <br/>
 
