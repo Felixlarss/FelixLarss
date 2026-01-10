@@ -44,7 +44,7 @@ This is a tool for calculating the fair amount of rent one should pay in a colle
 
 ## ARK
 
-<img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/2026-01-09_22-24.png" width="400" align="right" style="margin-left:15px;"> 
+<img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/ARK.png" width="400" align="right" style="margin-left:15px;"> 
 
 ARK is a concept website for a board game association, it is therefore mostly for show. I used React for the project, and it doesn't have a backend, instead it stores dummy data in JSON files in the frontend. I learned how to take feedback in a constructive way with this project.
 
