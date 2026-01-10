@@ -2,7 +2,7 @@
 
 I am an avid learner and spend my time crafting new projects that I am passionate about. My favorite part about creating is that it is limitless, and when I don't know how to do something, I learn it by searching or asking. There is power in the words "I don't know."
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,postgresql,git,svelte,react,expressjs,nodejs,linux,neovim,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,postgresql,git,svelte,react,expressjs,linux,neovim,)](https://skillicons.dev)
 
 ---
 
