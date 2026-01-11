@@ -37,19 +37,3 @@ This is a tool for calculating the fair amount of rent one should pay in a colle
 <br/>
 
 [link to Repo](https://github.com/Felixlarss/CoRent)
-
-<br/>
-
-<br/>
-
-## ARK
-
-<img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/ARK.png" width="400" align="right" style="margin-left:15px;"> 
-
-ARK is a concept website for a board game association, it is therefore mostly for show. I used React and tailwind for the project and it doesn't have a backend, instead it stores dummy data in JSON files in the frontend. There are a lot of improvements to be made to the design, but at least I learned how to take feedback in a constructive way with this project.
-
-<br/>
-
-<br/>
-
-[link to Repo](https://github.com/Felixlarss/ark)
