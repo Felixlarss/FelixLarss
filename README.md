@@ -30,7 +30,7 @@ A tool for helping me catch the tram on time! It uses Västtrafiks API to get de
 
 <img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/coRent.png" width="400" align="right" style="margin-left:15px;"> 
 
-This is a tool for calculating the fair amount of rent one should pay in a collective. you can add, remove, and edit tenants. It also uses SvelteKit and Tailwind, but this one has a backend and database. For the backend it uses ExpressJS, and for the database it uses PostgreSQL. It is still a work in progress, my next task is adding Oauth and making the frontend look nice, right now it is just a placeholder page.
+This is a tool for calculating the fair amount of rent one should pay in a collective. you can add, remove, and edit tenants and rooms. It has an auth system so anyone can make a house and if you have the hosue key you can join that house. It also uses SvelteKit and Tailwind, but this one has a backend and database. For the backend it uses ExpressJS, and for the database it uses PostgreSQL. It is still a work in progress, right now i am working on getting it running on Render.
 
 <br/>
 
