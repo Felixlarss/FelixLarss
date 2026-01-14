@@ -28,6 +28,7 @@ This is a tool for calculating the fair amount of rent one should pay in a colle
 <br/>
 
 <br/>
+
 ## NextTram
 
 <img src="https://raw.githubusercontent.com/Felixlarss/FelixLarss/refs/heads/main/nextTrain.jpg" width="400" align="right" style="margin-left:15px;"> 
