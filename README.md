@@ -37,7 +37,7 @@ This is a tool for calculating the fair amount of rent one should pay in a colle
 
 <br/>
 
-[link to Repo](https://github.com/Felixlarss/CoRent)
+[Link to Repo](https://github.com/Felixlarss/CoRent)
 <br/>
 [Link to Website](https://co-rent-rho.vercel.app/)
 
