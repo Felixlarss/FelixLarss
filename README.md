@@ -21,7 +21,6 @@ A tool for helping me catch the tram on time! It uses Västtrafiks API to get de
 <br/>
 
 [Link to Repo](https://github.com/Felixlarss/nextTram)
-[Link to Website](https://co-rent-rho.vercel.app/)
 
 
 <br/>
@@ -39,3 +38,6 @@ This is a tool for calculating the fair amount of rent one should pay in a colle
 <br/>
 
 [link to Repo](https://github.com/Felixlarss/CoRent)
+<br/>
+[Link to Website](https://co-rent-rho.vercel.app/)
+
